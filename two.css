@@ -1,0 +1,36 @@
+.DAYS{
+    width: 60PX;
+    height: 150px;
+    display: flexbox;
+    position: relative;
+    margin-left: 100px;
+    }
+   .DAYS .one{
+
+        background-color: hsl(149, 84%, 48%);
+        left: 100PX;
+        height: 20PX;
+        width: 60px;
+        position: absolute;
+        } 
+        .DAYS .two{
+            left: 100PX;
+            height: 20PX;
+            width: 60px;
+            position: absolute;
+            background-color: hwb(160 5% 10%);
+            
+            }
+            .DAYS.back{
+                left: 100PX;
+                height: 20PX;
+                width: 60px;
+                position: absolute;
+                background-color: hwb(160 5% 10%);
+                
+
+        }
+        .id {
+            position: relative;
+            top: 70px;
+                left: 100px;}

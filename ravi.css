@@ -1,0 +1,38 @@
+.DAYS{
+width: 60PX;
+height: 150px;
+display: flexbox;
+position: relative;
+margin-left: 100px;
+}
+.main{
+
+position: relative;
+
+}
+.h1{
+
+margin-left: 60px;
+
+}
+.DAYS .one{
+
+background-color: hsl(149, 84%, 48%);
+
+} 
+.DAYS .two{
+
+    background-color: hwb(160 5% 10%);
+    
+    }
+.id {
+position: relative;
+top: 500px;
+left: 100px;
+
+}
+body{
+bac
+
+    
+}
